@@ -45,8 +45,13 @@
 #### calques: réglages
 - mode de fusion
 
+#### opérations booléennes
 
 
+#### contrainte
+- déplacement / mise à l'échelle vis-à-vis au container
+
+#### travailler avec des assets
 
 #### enregistrement exportation
 - enregistrer .afdesign
@@ -54,18 +59,21 @@
 
 
 
+#### symboles
+- creation
+- modification répercutée
+- détacher
 
-#### symbols
-
-
-#### outil angle
+#### outil angle (corner tool)
 
 
 #### outil dégradé
-
+- type de dégradé
+- angle
+- points d'arrêt
 
 #### style d'objet
-
+- fond / contour
 
 #### saisie de texte
 - attributs de caractères/paragraphe de base
