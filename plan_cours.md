@@ -1,24 +1,47 @@
-1 Affinity Designer Basics
-============================================
+# 1 Affinity Designer Basics
 
-### 1.1 introduction
+## 1.1 introduction
 
-#### prise en mains
-- nouveau doc: page simple / artboard
+### prise en mains
+- nouveau doc: page simple
 - orientation
 - formats
 
-#### environnement de travail
-- zoom
-- déplacement
-- affichage
-- pallettes outils, fenêtres
-
-#### objet
-- attributs: fond/contour
+### objet (basique)
+- création
 - sélection simple
 - sélection multiple et discontinue
 - poignées
+- attributs: fond/contour
+
+### navigation dans le document
+- zoom
+- déplacement
+
+### calques
+- un objet = un claque
+- ordre d'empilement
+- relation hierarchique
+
+### interface/environnement de travail
+- palettes outils
+- fenêtres
+- studios
+
+### objet (avancé)
+- propriétés intrinsec dynamiques
+- conversion en courbes
+- corner tool
+
+### enregistrement
+- format natif
+- exportation
+
+
+
+# 9 archives
+- artboard
+- affichage (wireframe)
 
 #### agencement des objets:
 - calques
@@ -28,8 +51,6 @@
 
 #### creation des objets
 - bibliothèque d'objets
-- propriété intrinsec dynamique
-- conversion en courbes
 - courbes de béziers
 
 #### creation de courbes
@@ -57,8 +78,6 @@
 - enregistrer .afdesign
 - exporter .png .jpeg .svg
 
-
-
 #### symboles
 - creation
 - modification répercutée
@@ -77,3 +96,4 @@
 
 #### saisie de texte
 - attributs de caractères/paragraphe de base
+
