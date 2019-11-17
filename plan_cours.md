@@ -32,12 +32,14 @@
 - propriétés intrinsec dynamiques
 - conversion en courbes
 - corner tool
+- groupe
 
 ### enregistrement
 - format natif
 - exportation
 
-
+### Exercice
+- :sunflower: prairie fleurie
 
 # 9 archives
 - artboard
