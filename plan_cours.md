@@ -1,4 +1,4 @@
-# 1 Affinity Designer Basics
+# 1 Affinity Designer
 
 ## 1.1 introduction
 
