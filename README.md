@@ -1,4 +1,4 @@
-# affinty_designer
+# affinity_designer
 Affinity Designer
 
 Illustration numérique
