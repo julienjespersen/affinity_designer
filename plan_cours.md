@@ -1,4 +1,4 @@
-# 1 Affinity Designer
+# Affinity Designer
 
 ## 1.1 introduction
 
@@ -28,7 +28,7 @@
 - fenêtres
 - studios
 
-### objet (avancé)
+### objet (plus avancé)
 - propriétés intrinsec dynamiques
 - conversion en courbes
 - corner tool
