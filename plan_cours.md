@@ -29,7 +29,7 @@
 - studios
 
 ### objet (plus avancé)
-- propriétés intrinsec dynamiques
+- propriétés intrinsèque dynamiques
 - conversion en courbes
 - corner tool
 - groupe
