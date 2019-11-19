@@ -40,3 +40,4 @@
 
 ### Exercice
 - :sunflower: prairie fleurie
+- (:gem: diamant)
