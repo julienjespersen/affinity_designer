@@ -29,7 +29,7 @@
 - studios
 
 ### objet (plus avancé)
-- propriétés intrinsèque dynamiques
+- propriétés intrinsèques dynamiques
 - conversion en courbes
 - corner tool
 - groupe
@@ -38,6 +38,11 @@
 - format natif
 - exportation
 
-### Exercice
+### exercice
 - :sunflower: prairie fleurie
 - (:gem: diamant)
+
+## 1.2 création
+### dessin à la plume
+- segment, modes polygones, courbes, smart
+- noeuds: modes aigus, courbes
