@@ -42,7 +42,21 @@
 - :sunflower: prairie fleurie
 - (:gem: diamant)
 
-## 1.2 création
+## 1.2 position, modification, création
+### position
+- symétrie
+- rotation
+- alignement (dialogue, poignées)
+
+### opérations booléenes
+- fusion
+- exclusion
+- intersection
+
 ### dessin à la plume
 - segment, modes polygones, courbes, smart
 - noeuds: modes aigus, courbes
+### dessin au pinceau
+- bibliothèque de pinceaux
+- trait de pinceaux, corrections
+- paramètres
