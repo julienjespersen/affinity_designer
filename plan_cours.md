@@ -56,7 +56,19 @@
 ### dessin à la plume
 - segment, modes polygones, courbes, smart
 - noeuds: modes aigus, courbes
+
 ### dessin au pinceau
 - bibliothèque de pinceaux
 - trait de pinceaux, corrections
 - paramètres
+
+### remplissage
+- dégradés
+- transparence
+
+### effets
+- ombre portée
+- biseau
+
+### exercice
+- paysage en plastique
